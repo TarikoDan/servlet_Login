@@ -1,3 +1,5 @@
+package initions;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -22,7 +24,7 @@ public class UsersList {
 
     @Override
     public String toString() {
-        return "UsersList{" +
+        return "initions.UsersList{" +
                 "userList=" + userList +
                 '}';
     }

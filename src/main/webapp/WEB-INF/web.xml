@@ -7,7 +7,7 @@
     
     <servlet>
         <servlet-name>user</servlet-name>
-        <servlet-class>userServlet</servlet-class>
+        <servlet-class>servlets.userServlet</servlet-class>
     </servlet>
     
     <servlet-mapping>
